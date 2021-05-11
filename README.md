@@ -7,7 +7,7 @@
 
 - 📫 Como entrar em contato comigo **tiegogalo@hotmail.com**
 
-- 📄 Conhecer minhas experiências [https://my.indeed.com/p/tiegos-xpidm3c](https://my .indeed.com / p / tiegos-xpidm3c)
+- 📄 Conhecer minhas experiências [https://1drv.ms/b/s!Ap-aVR-Nogd5hH2ZpVBzR7BOfFUy?e=1xfXmq] (https://1drv.ms/b/s!Ap-aVR-Nogd5hH2ZpVBzR7BOfFUy?e=1xfXmq)
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
