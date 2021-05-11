@@ -17,7 +17,6 @@
 
 - 🌱 I'm on track to learn more about back end and softwate quality (testing) and Cloud Architecture.
 
-<!--📄 &nbsp;Please have a look at my [Résumé](https://1drv.ms/b/s!Ap-aVR-Nogd5hH2ZpVBzR7BOfFUy?e=2gd6RC) for more details about me. I'm open to feedback and suggestions! -->
 
 
 ### 🛠 &nbsp;Tech Stack
