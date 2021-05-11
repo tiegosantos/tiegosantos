@@ -1,20 +1,45 @@
-<h1 align = "center"> Olá 👋, sou Tiego Santos </h1>
-<h3 align = "center"> Analista Desenvolvedor em busca de conhecimento contínuo! </h3>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=tiegosantos&label=Profile%20views&color=0e75b6&style=flat" alt = "tiegosantos" /> </p>
+<h2>Hey there! Tiego Santos</h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-- 🌱 Atualmente estou aprendendo ** Java, Spring boot , Angular, AWS **
+### 👨🏻‍💻 &nbsp;About Me
 
-- 📫 Como entrar em contato comigo **tiegogalo@hotmail.com**
+- 📚 I’m currently learning about **Java,Spring boot,Angular,AWS**
 
-- 📄 Conhecer minhas experiências [https://1drv.ms/b/s!Ap-aVR-Nogd5hH2ZpVBzR7BOfFUy?e=1xfXmq] (https://1drv.ms/b/s!Ap-aVR-Nogd5hH2ZpVBzR7BOfFUy?e=1xfXmq)
+- 💬Inquire me about **HTML, CSS, SQL**
 
-<h3 align = "left"> Conecte-se a mim: </h3>
-<p align = "left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tiegopereirasantos/" target="blank"> <img align = "center" src = "https: // raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg "alt =" https://www.linkedin.com/in / tiegopereirasantos / "height =" 30 "width =" 40 "/> </a>
-</p>
+- 📧 How to reach me? **Connect to me via Email [tiego](mailto:tiegogalo@hotmail.com.com)**
 
-<h3 align =" left "> Idiomas e ferramentas: </h3>
-<p align = "left"> <a href="https://angular.io" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ angularjs / angularjs-original-wordmark.svg "alt =" angularjs "width =" 40 "height =" 40 "/> </a> <a href =" https://aws.amazon.com "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg "alt =" aws "width =" 40 "height =" 40 " /> </a> <a href="https://getbootstrap.com" target="_blank"> <img src = "https: //raw.githubusercontent.com / devicons / devicon / master / icons / bootstrap / bootstrap-plain-wordmark.svg "alt =" bootstrap "width =" 40 "height =" 40 "/> </a> <a href =" https: // www.w3schools.com/cs/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg "alt =" csharp "width =" 40 "height =" 40 "/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src =" https: // raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https: // dotnet.microsoft.com/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg "alt = "dotnet" width = "40" height = "40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src = "https: //raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> <a href = "https://www.java.com" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" largura = "40"height = "40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = "https: / /raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https : //www.mongodb.com/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg "alt = "mongodb" width = "40" height = "40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img src = "https: / /cru.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href =" https: //nodejs.org "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg "alt =" nodejs " width = "40" height = "40" /> </a> <a href="https://postman.com" target="_blank"> <img src = "https://www.vectorlogo.zone/ logos / getpostman / getpostman-icon.svg "alt =" postman "width =" 40 "height =" 40 "/> </a> <a href =" https://www.python.org "target ="_blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "alt =" python "width =" 40 "height =" 40 "/ > </a> <a href="https://reactjs.org/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/ react-original-wordmark.svg "alt =" react "width =" 40 "height =" 40 "/> </a> <a href =" https://www.ruby-lang.org/en/ "target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt = "ruby" width = "40" height = "40 "/> </a><a href="https://www.selenium.dev" target="_blank"> <img src = "https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo. svg "alt =" selenium "width =" 40 "height =" 40 "/> </a> <a href="https://spring.io/" target="_blank"> <img src =" https: //www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> </p>svg "alt =" selenium "width =" 40 "height =" 40 "/> </a> <a href="https://spring.io/" target="_blank"> <img src =" https: //www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> </p>svg "alt =" selenium "width =" 40 "height =" 40 "/> </a> <a href="https://spring.io/" target="_blank"> <img src =" https: //www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> </p>
+- 🎮 Fun fact: **I love to play video games and cook**
+
+- 💡 I like to explore new technologies
+
+- 🌱 I'm on track to learn more about back end and softwate quality (testing) and Cloud Architecture.
+
+<!--📄 &nbsp;Please have a look at my [Résumé](https://1drv.ms/b/s!Ap-aVR-Nogd5hH2ZpVBzR7BOfFUy?e=2gd6RC) for more details about me. I'm open to feedback and suggestions! -->
+
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C Sharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=CSharp)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=tiegosantos&show_icons=true&locale=en&layout=compact" alt = "tiegosantos" /> </p>
+
+
