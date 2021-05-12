@@ -9,8 +9,6 @@
 
 - 💬Inquire me about **HTML, CSS, SQL**
 
-- 📧 How to reach me? **Connect to me via Email [tiego](mailto:tiegogalo@hotmail.com.com)**
-
 - 🎮 Fun fact: **I love to play video games and cook**
 
 - 💡 I like to explore new technologies
